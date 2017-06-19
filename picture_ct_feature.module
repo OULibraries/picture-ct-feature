@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Picture CT Feature feature.
+ */
+
+include_once 'picture_ct_feature.features.inc';
